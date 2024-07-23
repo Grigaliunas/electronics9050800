@@ -19,7 +19,7 @@ Size: 139.65MB \
 File name: HTTP_FLOOD_v2_ATTACKERS_ONLY.zip
 Size: 362kB \
 File name: ICMP_FLOOD_FLOWS.zip
-Size: 123.26MB \ 
+Size: 123.26MB \
 File name: ICMP_FLOOD_v2_ATTACKERS_ONLY.zip
 Size: 215.32kB \
 File name: LAND_ATTACK_FLOWS.zip
